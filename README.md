@@ -8,6 +8,7 @@ And Lab staffs are also very nice, if you want to attend the zoom meeting, you c
 
 Some exercise samples:           
 
-![gridmap_0.5](D:\研究生阶段\Robot Mapping\ue\gridmaps_framework\gridmap_0.5.png)
+![gridmap_0.5](https://github.com/Verneinender/Robot_Mapping_Frameworks/blob/master/gridmap_0.5.png)
 
-![gridmap_0.1](D:\研究生阶段\Robot Mapping\ue\gridmap_0.1.png)s
+![gridmap_0.1](https://github.com/Verneinender/Robot_Mapping_Frameworks/blob/master/gridmap_0.1.png)
+
