@@ -1,4 +1,4 @@
-# Robot_Mapping_Frameworks
+# Robot_Mapping_Exercises
 All codes are written in Octave. So there are some compatibility problems running in MATLAB.
 
 Exercises of the course *Robot Mapping*.   
